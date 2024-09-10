@@ -20,7 +20,8 @@ Which user account's hash was stolen by attacker?
 arthur kyle
 
 I searched for event code 4624 which indicates successful logon. From here, I was looking for suspicious event that has conflicting user information. Lucky for me I saw the ip address that did not match the work station name. Also remember to separate the name into two distinct names.
-![Pasted image 20240828042422](https://github.com/user-attachments/assets/8b0c761b-ad20-4daa-aa17-07378c3f9ac3)
+![Pasted image 20240828062022](https://github.com/user-attachments/assets/2fd64b89-dcea-4ea7-a2fd-77242a692c72)
+
 
 
 Task 4
