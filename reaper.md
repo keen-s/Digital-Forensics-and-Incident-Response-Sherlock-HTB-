@@ -5,7 +5,8 @@ Task 1
 What is the IP Address for Forela-Wkstn001?
 172.17.79.129
 From the pcap file, while checking the details of the first event, the hostname is revealed to be Forela-Wkstn001, we can see the source ip also.
-![[Pasted image 20240828040224.png]]
+![Pasted image 20240828040224](https://github.com/user-attachments/assets/4f65d1d4-5bad-4352-8dea-cb9cf3a18b69)
+
 ![image](https://github.com/user-attachments/assets/b77c038e-c392-47af-9edf-cec1ec846024)
 
 Task 2
