@@ -66,4 +66,4 @@ On the same folder path, there is another file with the name SYSTEM, Checked the
 ![image](https://github.com/user-attachments/assets/548d985f-c78a-44ef-9ea6-64f57acec374)
 
 
-This CTF helps me practice event logs analysis and MFT analysis using MFT explorer. This tools are vital in the day to day life of a blue team.
+This CTF helps me practice event logs analysis and MFT analysis using MFT explorer. This tools are vital in the day to day life of a blue team. Understanding how to co-relate different logs to know exactly what the attacker was doing in our systems at different times. This helps us know the exact activities carried out in our compromised systems. This way we are able to implemnt ways to curb and prevent future attacks on our systems.
