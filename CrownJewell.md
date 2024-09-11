@@ -66,3 +66,4 @@ On the same folder path, there is another file with the name SYSTEM, Checked the
 ![image](https://github.com/user-attachments/assets/548d985f-c78a-44ef-9ea6-64f57acec374)
 
 
+This CTF helps me practice event logs analysis and MFT analysis using MFT explorer. This tools are vital in the day to day life of a blue team.
